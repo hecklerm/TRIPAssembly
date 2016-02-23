@@ -1,2 +1,12 @@
 # TRIPAssembly
-Any documentation for building/developing software for TRIP, the Test Robotics IoT Platform.
+
+## Description
+
+Documentation for building and developing software for TRIP, the Test Robotics IoT Platform.
+
+## Contact info
+
+* Mark Heckler
+* @MkHeck
+* mark@thehecklers.org
+* mark.heckler@gmail.com
