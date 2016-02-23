@@ -1,0 +1,15 @@
+= List of repositories for TRIP (Test Robotics IoT Platform)
+Mark Heckler <mark@thehecklers.org>
+v1.0, 2016-02-23
+
+== Configuration
+
+* This repo[https://github.com/hecklerm/TRIPAssembly]
+* Configuration scripts[https://github.com/hecklerm/TRIPPi]
+
+== Code
+
+* Onboard Pi software for control/communication[https://github.com/hecklerm/TRIPlite]
+* Onboard Arduino software for motor/sensor interfaces[https://github.com/hecklerm/TRIP-P1]
+* Ground Control (user app)[https://github.com/hecklerm/GroundControl]
+* TRIPwire cloud-based monitoring/graphing[https://github.com/hecklerm/TRIPwire]

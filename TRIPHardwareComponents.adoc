@@ -1,0 +1,39 @@
+= Hardware Components for TRIP (Test Robotics IoT Platform)
+Mark Heckler <mark@thehecklers.org>
+v2.0, 2016-02-23
+
+== Mechanical/Structural
+
+* 4WD aluminum mobile robot car chassis platform
+* Lexan panel pieces
+* Standoffs
+
+== Lower-level Functions
+
+* Arduino UNO or Mega 2560
+* L298N Dual H Bridge DC motor driver board
+* Sensor Shield v5.0
+* Servo and mount/HC-SR04 proximity sensor and mount
+* Adafruit triple-axis magnetometer (compass) board
+
+== Higher-level "Control & Communication" Functions
+
+* Raspberry Pi Model B, B+, or 2 Model B
+* Wifi adapter (Raspberry Pi Foundation-approved)
+* Pi case
+* Pi Camera
+* Pi Camera case
+* 7v-24v to 5v step-down DC voltage regulator
+
+== Anything Else
+
+* USB type A male to type B male 6 inch cable (connect Pi to Arduino)
+* Extra-short USB to micro USB cable
+* ~11v battery (drone batteries are perfect for this)
+* Battery charger
+* Assorted wire (22ga)
+* F barrel (power) plug
+* Solder
+* Assorted screws, nuts, and bolts
+* Mini solderless breadboard (to facilitate connections)
+* Industrial velcro
