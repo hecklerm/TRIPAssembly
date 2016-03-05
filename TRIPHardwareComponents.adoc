@@ -15,6 +15,7 @@ v2.0, 2016-02-23
 * Sensor Shield v5.0
 * Servo and mount/HC-SR04 proximity sensor and mount
 * Adafruit triple-axis magnetometer (compass) board
+* Geiger counter board
 
 == Higher-level "Control & Communication" Functions
 
