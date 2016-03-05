@@ -13,4 +13,4 @@ v1.0, 2016-02-23
 * Onboard Arduino software for motor/sensor interfaces[https://github.com/hecklerm/TRIP-P1]
 * Ground Control (user app)[https://github.com/hecklerm/GroundControl]
 * TRIPwire cloud-based monitoring/graphing[https://github.com/hecklerm/TRIPwire]
-* TRIPfx desktop & mobile clients [https://github.com/TRIPJavaFXClientBraintrust/TRIPfx]
+* TRIPfx desktop & mobile clients[https://github.com/TRIPJavaFXClientBraintrust/TRIPfx]
